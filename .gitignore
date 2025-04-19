@@ -49,3 +49,51 @@ vcpkg/
 
 # Data files (uncomment if you want to exclude data files from version control)
 # data/*.txt 
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Executables
+library_system
+tests/library_tests
+
+# IDE specific files
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependencies
+deps/
+vendor/
+
+# Logs
+*.log
+logs/
+
+# Data files (if they contain sensitive information)
+data/*.txt
+!data/example_*.txt
+
+# Test coverage
+coverage/
+*.gcda
+*.gcno
+*.gcov 
