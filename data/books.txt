@@ -1,0 +1,2 @@
+B001|Test Book 1|Author 1|Fiction|123-456|1
+B002|Test Book 2|Author 2|Non-Fiction|456-789|1
