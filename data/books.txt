@@ -1,2 +1,32 @@
-B001|Test Book 1|Author 1|Fiction|123-456|1
-B002|Test Book 2|Author 2|Non-Fiction|456-789|1
+B001|Test Book 1|Author 1|Fiction|123-456|false
+B002|Test Book 2|Author 2|Non-Fiction|456-789|true
+B003|The Great Gatsby|F. Scott Fitzgerald|Fiction|978-0743273565|false
+B004|To Kill a Mockingbird|Harper Lee|Fiction|978-0446310789|true
+B005|1984|George Orwell|Science Fiction|978-0451524935|false
+B006|The Hobbit|J.R.R. Tolkien|Fantasy|978-0547928227|true
+B007|Pride and Prejudice|Jane Austen|Classic|978-0141439518|true
+B008|The Catcher in the Rye|J.D. Salinger|Fiction|978-0316769488|false
+B009|Lord of the Rings|J.R.R. Tolkien|Fantasy|978-0544003415|true
+B010|Brave New World|Aldous Huxley|Science Fiction|978-0060850524|false
+B011|The Da Vinci Code|Dan Brown|Mystery|978-0307474278|true
+B012|The Alchemist|Paulo Coelho|Fiction|978-0062315007|false
+B013|Dune|Frank Herbert|Science Fiction|978-0441172719|true
+B014|The Hunger Games|Suzanne Collins|Young Adult|978-0439023481|false
+B015|Harry Potter and the Sorcerer's Stone|J.K. Rowling|Fantasy|978-0590353427|true
+B016|The Girl with the Dragon Tattoo|Stieg Larsson|Mystery|978-0307454546|false
+B017|The Road|Cormac McCarthy|Post-Apocalyptic|978-0307387899|true
+B018|The Kite Runner|Khaled Hosseini|Fiction|978-1594631931|false
+B019|The Silent Patient|Alex Michaelides|Thriller|978-1250301697|true
+B020|Project Hail Mary|Andy Weir|Science Fiction|978-0593135204|false
+B021|The Midnight Library|Matt Haig|Fiction|978-0525559474|true
+B022|Atomic Habits|James Clear|Self-Help|978-0735211292|false
+B023|Educated|Tara Westover|Memoir|978-0399590504|true
+B024|The Martian|Andy Weir|Science Fiction|978-0553418026|false
+B025|Where the Crawdads Sing|Delia Owens|Fiction|978-0735219090|true
+B026|The Book Thief|Markus Zusak|Historical Fiction|978-0375844434|false
+B027|The Night Circus|Erin Morgenstern|Fantasy|978-0307744432|true
+B028|The Power of Habit|Charles Duhigg|Non-Fiction|978-0812981605|false
+B029|The Subtle Art of Not Giving a F*ck|Mark Manson|Self-Help|978-0062457714|true
+B030|Sapiens|Yuval Noah Harari|History|978-0062316097|false
+B031|The Psychology of Money|Morgan Housel|Finance|978-0857197689|true
+B032|Thinking, Fast and Slow|Daniel Kahneman|Psychology|978-0374533557|false
