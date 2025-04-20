@@ -36,11 +36,11 @@ make
 
 ## Running Tests
 
-The project includes both white box and black box tests:
+The project includes comprehensive black box tests:
 
 ```bash
-g++ -std=c++17 tests/*.cpp -o automated_tests
-./automated_tests
+g++ -std=c++17 tests/BlackBoxTests.cpp *.cpp -o tests
+./tests
 ```
 
 ## Usage
